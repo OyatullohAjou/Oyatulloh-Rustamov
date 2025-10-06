@@ -15,5 +15,5 @@
 - [Fire Detection using OpenCV](https://github.com/OyatullohAjou/fire-detection-opencv)
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/oyatulloh](https://www.linkedin.com/in/oyatulloh-rustamov-3a0898368/))
+- [LinkedIn](https://www.linkedin.com/in/oyatulloh-rustamov-3a0898368/)
 - [GitHub](https://github.com/OyatullohAjou)
