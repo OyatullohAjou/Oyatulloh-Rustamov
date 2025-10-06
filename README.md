@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Oyatulloh Rustamov
 
 🎓 Student at Ajou University in Tashkent  
-💻 Passionate about AI, IoT, and Computer Vision  
-📡 Currently working on: **IoT-enabled Smart Lighting and Power Saving System**  
+💻 Passionate about **AI, IoT, Computer Vision, and Design** 
+📡 Currently working on: **IoT-enabled Smart Home**  
 🔥 Previous project: **Fire Detection using TensorFlow and OpenCV**
 
 ## 🧠 Skills
-- Programming: Python, C, C++
+- Programming: Python, C, MATLAB
 - AI/ML: TensorFlow, Keras, OpenCV
-- IoT: Raspberry Pi, Proteus, MATLAB/Simulink, Altium Designer
-- Tools: PyCharm, Git, GitHub
+- IoT: Raspberry Pi, Arduino, MATLAB/Simulink, Tinkercad
+- Tools: PyCharm, GitHub ,ChatGPT,Figma,Fotoshop,Cisco Packet Tracer,Burp Suite
 
 ## 🚀 Projects
 - [Fire Detection using OpenCV](https://github.com/OyatullohAjou/fire-detection-opencv)
